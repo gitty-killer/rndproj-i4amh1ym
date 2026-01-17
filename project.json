@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-i4amh1ym"",
-  ""goal"": ""rule engine for billing"",
-  ""language"": ""python"",
-  ""template"": ""python-etl""
+    "name":  "rndproj-i4amh1ym",
+    "goal":  "rule engine for billing",
+    "language":  "python",
+    "template":  "python-etl"
 }
