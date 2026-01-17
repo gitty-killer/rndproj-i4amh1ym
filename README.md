@@ -1,4 +1,2 @@
-# rndproj-i4amh1ym
-
-Random rust project for experiment.
-
+# rndproj-i4amh1ym\n\nSmall log summarizer tool.\n
+New-FileDef
